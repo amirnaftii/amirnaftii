@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirnaftii
 - 👀 I’m interested in programming and computer science 
-- 🌱 I’m currently learning c,c++,python and shell programming languages 
+- 🌱 I’m currently learning c,c++,python and bash programming languages 
 - 📫 How to reach me :
   naftiamir11@gmail.com
 
